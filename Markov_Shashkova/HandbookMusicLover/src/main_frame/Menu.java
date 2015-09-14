@@ -854,7 +854,7 @@ private void readArrayArrayListMusicalRecording(ArrayList<MusicalRecording> musi
 {
     boolean a=false;
     try {
-        DataInputStream myfile = new DataInputStream( new FileInputStream("program/system.txt"));
+        DataInputStream myfile = new DataInputStream(new FileInputStream("program/system.txt"));
         int count=-1;
         count=myfile.readInt();
         if(count<0)
