@@ -1,54 +1,44 @@
-﻿Построение начато 11.09.2015 18:23:20.
-     1>Проект "G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\oop_kursovaya\oop_kursovaya.vcxproj" в узле 2 (целевые объекты build).
-     1>InitializeBuildStatus:
-         Создание "Release\oop_kursovaya.unsuccessfulbuild", так как было задано "AlwaysCreate".
-       GenerateTargetFrameworkMonikerAttribute:
-       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
-       ClCompile:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\oop_kursovaya.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+﻿Сборка начата 15.09.2015 20:40:34.
+     1>Проект "C:\Users\Евгений\Desktop\Patterns\Patterns15\TokarevShevelevaKobaleva\oop_kursovaya\oop_kursovaya\oop_kursovaya.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\oop_kursovaya.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
          stdafx.cpp
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\oop_kursovaya.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp base.cpp machine.cpp oop_kursovaya.cpp square.cpp /clr:nostdlib 
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\oop_kursovaya.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp base.cpp machine.cpp oop_kursovaya.cpp square.cpp
          AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(40): warning C4947: RequestMinimum: помечен как устаревший
+                 Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
          base.cpp
          machine.cpp
      1>machine.cpp(97): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
      1>machine.cpp(139): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
          oop_kursovaya.cpp
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1736): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1768): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1776): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1819): warning C4101: buf: неиспользованная локальная переменная
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1862): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(1922): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(2057): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\Form1.h(2186): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1736): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1768): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1776): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1819): warning C4101: buf: неиспользованная локальная переменная
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1862): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(1922): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(2057): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\Form1.h(2186): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
          square.cpp
          Создание кода...
-     1>g:\users\vadim\documents\visual studio 2010\projects\oop_kursovaya\oop_kursovaya\base.cpp(25): warning C4715: base::get_lost: значение возвращается не при всех путях выполнения
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Вадим\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
-         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
-       CoreResGen:
-         "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Release\oop_kursovaya.Form1.resources
-         Обрабатывается файл ресурсов "Form1.resX", результирующий объект: "Release\oop_kursovaya.Form1.resources".
+     1>c:\users\евгений\desktop\patterns\patterns15\tokarevshevelevakobaleva\oop_kursovaya\oop_kursovaya\base.cpp(25): warning C4715: base::get_lost: значение возвращается не при всех путях выполнения
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Евгений\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
        ResourceCompile:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
        Link:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\Release\oop_kursovaya.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\oop_kursovaya.Form1.resources /MANIFEST /ManifestFile:"Release\oop_kursovaya.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\Release\oop_kursovaya.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Евгений\Desktop\Patterns\Patterns15\TokarevShevelevaKobaleva\oop_kursovaya\Release\oop_kursovaya.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\oop_kursovaya.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Евгений\Desktop\Patterns\Patterns15\TokarevShevelevaKobaleva\oop_kursovaya\Release\oop_kursovaya.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\app.res
          Release\AssemblyInfo.obj
          Release\base.obj
          Release\machine.obj
          Release\oop_kursovaya.obj
          Release\square.obj
          Release\stdafx.obj
-         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
-         oop_kursovaya.vcxproj -> G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\Release\oop_kursovaya.exe
-       Manifest:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\Release\oop_kursovaya.exe;#1" /manifest Release\oop_kursovaya.exe.intermediate.manifest
-       FinalizeBuildStatus:
-         Файл "Release\oop_kursovaya.unsuccessfulbuild" удаляется.
-         Обращение к "Release\oop_kursovaya.lastbuildstate".
-     1>Построение проекта "G:\Users\Vadim\Documents\Visual Studio 2010\Projects\oop_kursovaya\oop_kursovaya\oop_kursovaya.vcxproj" завершено (целевые объекты build).
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1207: несовместимый формат PDB в "C:\Users\Евгений\Desktop\Patterns\Patterns15\TokarevShevelevaKobaleva\oop_kursovaya\Release\oop_kursovaya.pdb"; удалите и перестройте
+     1>Сборка проекта "C:\Users\Евгений\Desktop\Patterns\Patterns15\TokarevShevelevaKobaleva\oop_kursovaya\oop_kursovaya\oop_kursovaya.vcxproj" завершена (целевые объекты Build) с ошибкой.
 
-Построение успешно завершено.
+Ошибка сборки.
 
-Затраченное время: 00:00:13.38
+Затраченное время: 00:00:10.37
