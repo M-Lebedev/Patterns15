@@ -1,0 +1,32 @@
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.Form1.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.Properties.Resources.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.SpravM.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.exe
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.pdb
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.Add.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.FSinger.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.FCompozitor.resources
+C:\Users\Наташа\Documents\Visual Studio 2010\Projects\Practica2\Practica2\obj\x86\Debug\Practica2.FPoet.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\bin\Debug\Practica2.exe.config
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.exe
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.pdb
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\bin\Debug\Practica2.exe
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\bin\Debug\Practica2.pdb
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.Add.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.FCompozitor.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.Form1.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.FPoet.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.FSinger.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.Properties.Resources.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.SpravM.resources
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.csprojResolveAssemblyReference.cache
+d:\Учеба\2 курс\Практика 2\Наташа\C#\Practica2\Practica2\obj\x86\Debug\Practica2.csproj.GenerateResource.Cache
+d:\Облако Mail.ru\Учеба\4 курс\7 семестр\Старолетов С.М. (Паттерны)\1лр\Project\Practica2\Practica2\bin\Debug\Practica2.exe.config
+d:\Облако Mail.ru\Учеба\4 курс\7 семестр\Старолетов С.М. (Паттерны)\1лр\Project\Practica2\Practica2\obj\x86\Debug\Practica2.exe
+d:\Облако Mail.ru\Учеба\4 курс\7 семестр\Старолетов С.М. (Паттерны)\1лр\Project\Practica2\Practica2\obj\x86\Debug\Practica2.pdb
